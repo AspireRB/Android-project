@@ -22,11 +22,12 @@ presentan las principales pantallas:
 
 3. Chat
 
-   Podra ver el chat en vivo de la actividad adquirido con otro usuario.
+   Podra ver el chat en vivo de la actividad contratada con otro usuario.
 
    ![Búsqueda](images/Chat.png)
 
 4. Perfil de usuario
+
    El usuario podra ver la información relevante de su perfil
 
    ![Búsqueda](images/Profile.png)
