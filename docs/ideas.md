@@ -2,7 +2,7 @@
 
 Se proponen las siguientes ideas de aplicación para el proyecto:
 
-## Idea 1: EduNinja
+## Idea 1: EduNinja (Seleccionada)
 
 "EduNinja" es una aplicación que permite a los estudiantes de diversas universidades colaborar para realizar proyectos, trabajos, buscar asistencia de estudio y ver actividades o eventos de estudio dependiendo de su carrera. Esta aplicación es muy útil para el entorno universitario, ya que facilita el refuerzo en las áreas que presenten más dificultades y permite mejorar de manera más eficiente.
 
